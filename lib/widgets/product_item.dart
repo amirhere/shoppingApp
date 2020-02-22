@@ -26,7 +26,6 @@ class ProductItem extends StatelessWidget {
           child: Image.network(
               ImageUrl,
               fit: BoxFit.cover
-
           ),
 
 
